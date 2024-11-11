@@ -1,0 +1,301 @@
+﻿ContactID,CategoryID,CategoryFullName,CategoryName,SectionID,SectionName
+16268145,105,Outliers.Excessive Silence Block,Excessive Silence Block,54,Outliers
+16268145,106,Outliers.Excessive Silence,Excessive Silence,54,Outliers
+16268145,107,Outliers.Longest Contacts,Longest Contacts,54,Outliers
+16268145,114,Customer Experience.Transfer Language,Transfer Language,74,Customer Experience
+16268145,118,Customer Experience.Ownership,Ownership,74,Customer Experience
+16268145,119,Customer Experience.Politeness,Politeness,74,Customer Experience
+16268145,158,Disclosure Details.Radio ID Final,Radio ID Final,70,Disclosure Details
+16268145,167,Account Verification.Account,Account,71,Account Verification
+16471069,231,Call Universe.Call Requiring Purchase Disclosure,Call Requiring Purchase Disclosure,82,Call Universe
+16471069,234,Disclosure Details.Permission to Charge Card- No Speaker Sep,Permission to Charge Card- No Speaker Sep,70,Disclosure Details
+16471069,236,Score Card Indicators.Payment Authorization,Payment Authorization,78,Score Card Indicators
+16471069,241,Score Card Indicators.Credit or Balance Due- Final,Credit or Balance Due- Final,78,Score Card Indicators
+16471069,246,Score Card Indicators.Plan Type Term,Plan Type Term,78,Score Card Indicators
+16471069,281,Disclosure Details.Test Customer Agreement,Test Customer Agreement,70,Disclosure Details
+16471069,355,Test - Category Reason.Cancel Universe,Cancel Universe,134,Test - Category Reason
+16471069,356,Test - Category Reason.Renewal Universe,Renewal Universe,134,Test - Category Reason
+16471069,371,Test - Category Reason.Call Driver Universe,Call Driver Universe,134,Test - Category Reason
+16471069,388,Test - Category Reason.Streaming Benefits,Streaming Benefits,134,Test - Category Reason
+16471069,389,Test - Category Reason.Polaris - All Queries,Polaris - All Queries,134,Test - Category Reason
+16471069,451,Call Reason.Cancel Call Reason,Cancel Call Reason,185,Call Reason
+16471069,452,Call Reason.Renewal Call Reason,Renewal Call Reason,185,Call Reason
+16471069,473,Mega Winback Offer Strategy.Premium content,Premium content,202,Mega Winback Offer Strategy
+16471069,499,Second Box Disclosure.ROC - 2nd Box Automatic Renewal,ROC - 2nd Box Automatic Renewal,193,Second Box Disclosure
+16471069,534,Offers.New Plan Names,New Plan Names,73,Offers
+16471069,540,Call Flow 2021.Call Opening,Call Opening,218,Call Flow 2021
+16471069,541,Call Flow 2021.Verification,Verification,218,Call Flow 2021
+16471069,542,Call Flow 2021.Beginning of Disclosure,Beginning of Disclosure,218,Call Flow 2021
+16471069,543,Call Flow 2021.End of Disclosure,End of Disclosure,218,Call Flow 2021
+16471069,544,Call Flow 2021.Call Closing,Call Closing,218,Call Flow 2021
+16471069,546,Call Flow 2021.Call Flow - Offers,Call Flow - Offers,218,Call Flow 2021
+16471069,553,Customer Experience.Price Increase Oct,Price Increase Oct,74,Customer Experience
+16471069,565,Account Verification.Verification Segment,Verification Segment,71,Account Verification
+16471069,570,Call Flow 2021.Call Flow - All Categories,Call Flow - All Categories,218,Call Flow 2021
+16471069,573,Customer Experience.Customer Mentions of Receiving Comms,Customer Mentions of Receiving Comms,74,Customer Experience
+16471069,589,Emotion Index.Emotion Index Happiness or Excitement,Emotion Index Happiness or Excitement,269,Emotion Index
+16471070,105,Outliers.Excessive Silence Block,Excessive Silence Block,54,Outliers
+16471070,106,Outliers.Excessive Silence,Excessive Silence,54,Outliers
+16471070,107,Outliers.Longest Contacts,Longest Contacts,54,Outliers
+16471070,119,Customer Experience.Politeness,Politeness,74,Customer Experience
+16471070,123,Sales.Touting Benefits,Touting Benefits,55,Sales
+16471070,124,Sales.Upsell/Cross-Sell,Upsell/Cross-Sell,55,Sales
+16471070,125,Customer Experience.Auditory Understandability,Auditory Understandability,74,Customer Experience
+16471070,140,Disclosure Details.Plan Type- Final,Plan Type- Final,70,Disclosure Details
+16471070,142,Disclosure Details.Includes Fees and Taxes Needs Review,Includes Fees and Taxes Needs Review,70,Disclosure Details
+16471070,167,Account Verification.Account,Account,71,Account Verification
+16471070,170,Account Verification.Name,Name,71,Account Verification
+16471070,191,Language Filters.Vehicle Types,Vehicle Types,75,Language Filters
+16471070,205,Customer Experience.Call Opening,Call Opening,74,Customer Experience
+16471070,356,Test - Category Reason.Renewal Universe,Renewal Universe,134,Test - Category Reason
+16471070,371,Test - Category Reason.Call Driver Universe,Call Driver Universe,134,Test - Category Reason
+16471070,452,Call Reason.Renewal Call Reason,Renewal Call Reason,185,Call Reason
+16471070,534,Offers.New Plan Names,New Plan Names,73,Offers
+16471070,540,Call Flow 2021.Call Opening,Call Opening,218,Call Flow 2021
+16471070,541,Call Flow 2021.Verification,Verification,218,Call Flow 2021
+16471070,544,Call Flow 2021.Call Closing,Call Closing,218,Call Flow 2021
+16471070,545,Call Flow 2021.Call Drivers,Call Drivers,218,Call Flow 2021
+16471070,546,Call Flow 2021.Call Flow - Offers,Call Flow - Offers,218,Call Flow 2021
+16471070,547,Call Flow 2021.1A Call Opening to Call Drivers,1A Call Opening to Call Drivers,218,Call Flow 2021
+16471070,548,Call Flow 2021.1B Call Drivers to Verification,1B Call Drivers to Verification,218,Call Flow 2021
+16471070,549,Call Flow 2021.1C Verification to Offers,1C Verification to Offers,218,Call Flow 2021
+16471070,550,Call Flow 2021.1D Offers to Beginning of Disclosure,1D Offers to Beginning of Disclosure,218,Call Flow 2021
+16471070,552,Call Flow 2021.1F End of Disclosure to Call Closing,1F End of Disclosure to Call Closing,218,Call Flow 2021
+16471070,565,Account Verification.Verification Segment,Verification Segment,71,Account Verification
+16471070,570,Call Flow 2021.Call Flow - All Categories,Call Flow - All Categories,218,Call Flow 2021
+16471071,105,Outliers.Excessive Silence Block,Excessive Silence Block,54,Outliers
+16471071,106,Outliers.Excessive Silence,Excessive Silence,54,Outliers
+16471071,107,Outliers.Longest Contacts,Longest Contacts,54,Outliers
+16471071,118,Customer Experience.Ownership,Ownership,74,Customer Experience
+16471071,119,Customer Experience.Politeness,Politeness,74,Customer Experience
+16471071,122,Sales.Objections,Objections,55,Sales
+16471071,128,Disclosure Details.Future Charges,Future Charges,70,Disclosure Details
+16471071,132,Language Filters.Transition Statements,Transition Statements,75,Language Filters
+16471071,136,Disclosure Details.Prorated Charges,Prorated Charges,70,Disclosure Details
+16471071,139,Disclosure Details.Go Over Details,Go Over Details,70,Disclosure Details
+16471071,140,Disclosure Details.Plan Type- Final,Plan Type- Final,70,Disclosure Details
+16471071,141,Disclosure Details.Initial Billing Period - Final,Initial Billing Period - Final,70,Disclosure Details
+16471071,142,Disclosure Details.Includes Fees and Taxes Needs Review,Includes Fees and Taxes Needs Review,70,Disclosure Details
+16471071,143,Disclosure Details.Automatic Renewal,Automatic Renewal,70,Disclosure Details
+16471071,144,Disclosure Details.Cancel Any time,Cancel Any time,70,Disclosure Details
+16471071,145,Disclosure Details.Accept Terms,Accept Terms,70,Disclosure Details
+16471071,146,Disclosure Details.Permission to Charge Card- Final,Permission to Charge Card- Final,70,Disclosure Details
+16471071,147,Disclosure Details.Customer Agreement,Customer Agreement,70,Disclosure Details
+16471071,153,Disclosure Details.Estimated Charges,Estimated Charges,70,Disclosure Details
+16471071,156,Disclosure Details.Current Rate,Current Rate,70,Disclosure Details
+16471071,158,Disclosure Details.Radio ID Final,Radio ID Final,70,Disclosure Details
+16471071,167,Account Verification.Account,Account,71,Account Verification
+16471071,170,Account Verification.Name,Name,71,Account Verification
+16471071,191,Language Filters.Vehicle Types,Vehicle Types,75,Language Filters
+16471071,202,Customer Experience.Positive Sentiment,Positive Sentiment,74,Customer Experience
+16471071,205,Customer Experience.Call Opening,Call Opening,74,Customer Experience
+16471071,225,Customer Experience.Confidence Language,Confidence Language,74,Customer Experience
+16471071,227,Score Card Indicators.Renewal Terms - Final,Renewal Terms - Final,78,Score Card Indicators
+16471071,228,Outcomes.Untuned Assumptive Card Language,Untuned Assumptive Card Language,57,Outcomes
+16471071,230,Language Filters.Pre-Transition Statements,Pre-Transition Statements,75,Language Filters
+16471071,231,Call Universe.Call Requiring Purchase Disclosure,Call Requiring Purchase Disclosure,82,Call Universe
+16471071,234,Disclosure Details.Permission to Charge Card- No Speaker Sep,Permission to Charge Card- No Speaker Sep,70,Disclosure Details
+16471071,236,Score Card Indicators.Payment Authorization,Payment Authorization,78,Score Card Indicators
+16471071,246,Score Card Indicators.Plan Type Term,Plan Type Term,78,Score Card Indicators
+16471071,281,Disclosure Details.Test Customer Agreement,Test Customer Agreement,70,Disclosure Details
+16471071,355,Test - Category Reason.Cancel Universe,Cancel Universe,134,Test - Category Reason
+16471071,356,Test - Category Reason.Renewal Universe,Renewal Universe,134,Test - Category Reason
+16471071,371,Test - Category Reason.Call Driver Universe,Call Driver Universe,134,Test - Category Reason
+16471071,389,Test - Category Reason.Polaris - All Queries,Polaris - All Queries,134,Test - Category Reason
+16471071,391,Test - Category Reason.Streaming Benefits - Part 2,Streaming Benefits - Part 2,134,Test - Category Reason
+16471071,408,Voice of Customer.Churn- Cancellation Threat,Churn- Cancellation Threat,174,Voice of Customer
+16471071,446,COVID-19.Job Loss - Payment - Work,Job Loss - Payment - Work,183,COVID-19
+16471071,451,Call Reason.Cancel Call Reason,Cancel Call Reason,185,Call Reason
+16471071,452,Call Reason.Renewal Call Reason,Renewal Call Reason,185,Call Reason
+16471071,534,Offers.New Plan Names,New Plan Names,73,Offers
+16471071,540,Call Flow 2021.Call Opening,Call Opening,218,Call Flow 2021
+16471071,541,Call Flow 2021.Verification,Verification,218,Call Flow 2021
+16471071,542,Call Flow 2021.Beginning of Disclosure,Beginning of Disclosure,218,Call Flow 2021
+16471071,543,Call Flow 2021.End of Disclosure,End of Disclosure,218,Call Flow 2021
+16471071,544,Call Flow 2021.Call Closing,Call Closing,218,Call Flow 2021
+16471071,546,Call Flow 2021.Call Flow - Offers,Call Flow - Offers,218,Call Flow 2021
+16471071,565,Account Verification.Verification Segment,Verification Segment,71,Account Verification
+16471071,570,Call Flow 2021.Call Flow - All Categories,Call Flow - All Categories,218,Call Flow 2021
+16471071,587,Emotion Index.Emotion Index Dishonesty,Emotion Index Dishonesty,269,Emotion Index
+16471072,105,Outliers.Excessive Silence Block,Excessive Silence Block,54,Outliers
+16471072,106,Outliers.Excessive Silence,Excessive Silence,54,Outliers
+16471072,107,Outliers.Longest Contacts,Longest Contacts,54,Outliers
+16471072,112,Customer Experience.Payment Language,Payment Language,74,Customer Experience
+16471072,118,Customer Experience.Ownership,Ownership,74,Customer Experience
+16471072,119,Customer Experience.Politeness,Politeness,74,Customer Experience
+16471072,128,Disclosure Details.Future Charges,Future Charges,70,Disclosure Details
+16471072,146,Disclosure Details.Permission to Charge Card- Final,Permission to Charge Card- Final,70,Disclosure Details
+16471072,167,Account Verification.Account,Account,71,Account Verification
+16471072,170,Account Verification.Name,Name,71,Account Verification
+16471072,202,Customer Experience.Positive Sentiment,Positive Sentiment,74,Customer Experience
+16471072,205,Customer Experience.Call Opening,Call Opening,74,Customer Experience
+16471072,225,Customer Experience.Confidence Language,Confidence Language,74,Customer Experience
+16471072,228,Outcomes.Untuned Assumptive Card Language,Untuned Assumptive Card Language,57,Outcomes
+16471072,234,Disclosure Details.Permission to Charge Card- No Speaker Sep,Permission to Charge Card- No Speaker Sep,70,Disclosure Details
+16471072,236,Score Card Indicators.Payment Authorization,Payment Authorization,78,Score Card Indicators
+16471072,360,Test - Category Reason.Account Maintenance Universe,Account Maintenance Universe,134,Test - Category Reason
+16471072,371,Test - Category Reason.Call Driver Universe,Call Driver Universe,134,Test - Category Reason
+16471072,452,Call Reason.Renewal Call Reason,Renewal Call Reason,185,Call Reason
+16471072,535,Offers.DTC - Pitch Rate,DTC - Pitch Rate,73,Offers
+16471072,540,Call Flow 2021.Call Opening,Call Opening,218,Call Flow 2021
+16471072,541,Call Flow 2021.Verification,Verification,218,Call Flow 2021
+16471072,543,Call Flow 2021.End of Disclosure,End of Disclosure,218,Call Flow 2021
+16471072,544,Call Flow 2021.Call Closing,Call Closing,218,Call Flow 2021
+16471072,565,Account Verification.Verification Segment,Verification Segment,71,Account Verification
+16471072,570,Call Flow 2021.Call Flow - All Categories,Call Flow - All Categories,218,Call Flow 2021
+16471073,105,Outliers.Excessive Silence Block,Excessive Silence Block,54,Outliers
+16471073,106,Outliers.Excessive Silence,Excessive Silence,54,Outliers
+16471073,107,Outliers.Longest Contacts,Longest Contacts,54,Outliers
+16471073,118,Customer Experience.Ownership,Ownership,74,Customer Experience
+16471073,119,Customer Experience.Politeness,Politeness,74,Customer Experience
+16471073,122,Sales.Objections,Objections,55,Sales
+16471073,123,Sales.Touting Benefits,Touting Benefits,55,Sales
+16471073,167,Account Verification.Account,Account,71,Account Verification
+16471073,168,Account Verification.Radio ID,Radio ID,71,Account Verification
+16471073,169,Account Verification.Phone,Phone,71,Account Verification
+16471073,170,Account Verification.Name,Name,71,Account Verification
+16471073,191,Language Filters.Vehicle Types,Vehicle Types,75,Language Filters
+16471073,202,Customer Experience.Positive Sentiment,Positive Sentiment,74,Customer Experience
+16471073,318,Call Drivers - Unclassified.Unclassified Calls,Unclassified Calls,128,Call Drivers - Unclassified
+16471073,494,Effective Streaming Pitch.Competitior Mentions,Competitior Mentions,172,Effective Streaming Pitch
+16471073,523,Offers.DTC Upsell,DTC Upsell,73,Offers
+16471073,533,Offers.DTC Upsell - Filter,DTC Upsell - Filter,73,Offers
+16471073,535,Offers.DTC - Pitch Rate,DTC - Pitch Rate,73,Offers
+16471073,540,Call Flow 2021.Call Opening,Call Opening,218,Call Flow 2021
+16471073,541,Call Flow 2021.Verification,Verification,218,Call Flow 2021
+16471073,565,Account Verification.Verification Segment,Verification Segment,71,Account Verification
+16471073,570,Call Flow 2021.Call Flow - All Categories,Call Flow - All Categories,218,Call Flow 2021
+16471073,589,Emotion Index.Emotion Index Happiness or Excitement,Emotion Index Happiness or Excitement,269,Emotion Index
+16471073,600,Contact Reasons.Cancel Something,Cancel Something,274,Contact Reasons
+16471073,625,Dissatisfaction.Customer Confusion,Customer Confusion,276,Dissatisfaction
+16471073,628,Dissatisfaction.Dissatisfaction,Dissatisfaction,276,Dissatisfaction
+16471074,105,Outliers.Excessive Silence Block,Excessive Silence Block,54,Outliers
+16471074,106,Outliers.Excessive Silence,Excessive Silence,54,Outliers
+16471074,107,Outliers.Longest Contacts,Longest Contacts,54,Outliers
+16471074,118,Customer Experience.Ownership,Ownership,74,Customer Experience
+16471074,119,Customer Experience.Politeness,Politeness,74,Customer Experience
+16471074,123,Sales.Touting Benefits,Touting Benefits,55,Sales
+16471074,128,Disclosure Details.Future Charges,Future Charges,70,Disclosure Details
+16471074,133,Disclosure Details.Recurring Basis,Recurring Basis,70,Disclosure Details
+16471074,136,Disclosure Details.Prorated Charges,Prorated Charges,70,Disclosure Details
+16471074,139,Disclosure Details.Go Over Details,Go Over Details,70,Disclosure Details
+16471074,140,Disclosure Details.Plan Type- Final,Plan Type- Final,70,Disclosure Details
+16471074,141,Disclosure Details.Initial Billing Period - Final,Initial Billing Period - Final,70,Disclosure Details
+16471074,142,Disclosure Details.Includes Fees and Taxes Needs Review,Includes Fees and Taxes Needs Review,70,Disclosure Details
+16471074,143,Disclosure Details.Automatic Renewal,Automatic Renewal,70,Disclosure Details
+16471074,144,Disclosure Details.Cancel Any time,Cancel Any time,70,Disclosure Details
+16471074,145,Disclosure Details.Accept Terms,Accept Terms,70,Disclosure Details
+16471074,146,Disclosure Details.Permission to Charge Card- Final,Permission to Charge Card- Final,70,Disclosure Details
+16471074,147,Disclosure Details.Customer Agreement,Customer Agreement,70,Disclosure Details
+16471074,153,Disclosure Details.Estimated Charges,Estimated Charges,70,Disclosure Details
+16471074,156,Disclosure Details.Current Rate,Current Rate,70,Disclosure Details
+16471074,170,Account Verification.Name,Name,71,Account Verification
+16471074,202,Customer Experience.Positive Sentiment,Positive Sentiment,74,Customer Experience
+16471074,225,Customer Experience.Confidence Language,Confidence Language,74,Customer Experience
+16471074,227,Score Card Indicators.Renewal Terms - Final,Renewal Terms - Final,78,Score Card Indicators
+16471074,228,Outcomes.Untuned Assumptive Card Language,Untuned Assumptive Card Language,57,Outcomes
+16471074,230,Language Filters.Pre-Transition Statements,Pre-Transition Statements,75,Language Filters
+16471074,231,Call Universe.Call Requiring Purchase Disclosure,Call Requiring Purchase Disclosure,82,Call Universe
+16471074,234,Disclosure Details.Permission to Charge Card- No Speaker Sep,Permission to Charge Card- No Speaker Sep,70,Disclosure Details
+16471074,236,Score Card Indicators.Payment Authorization,Payment Authorization,78,Score Card Indicators
+16471074,246,Score Card Indicators.Plan Type Term,Plan Type Term,78,Score Card Indicators
+16471074,281,Disclosure Details.Test Customer Agreement,Test Customer Agreement,70,Disclosure Details
+16471074,355,Test - Category Reason.Cancel Universe,Cancel Universe,134,Test - Category Reason
+16471074,371,Test - Category Reason.Call Driver Universe,Call Driver Universe,134,Test - Category Reason
+16471074,388,Test - Category Reason.Streaming Benefits,Streaming Benefits,134,Test - Category Reason
+16471074,389,Test - Category Reason.Polaris - All Queries,Polaris - All Queries,134,Test - Category Reason
+16471074,408,Voice of Customer.Churn- Cancellation Threat,Churn- Cancellation Threat,174,Voice of Customer
+16471074,409,Voice of Customer.Churn- Process Cancellation,Churn- Process Cancellation,174,Voice of Customer
+16471074,451,Call Reason.Cancel Call Reason,Cancel Call Reason,185,Call Reason
+16471074,488,Second Box Disclosure.ROC - No Activation Fee,ROC - No Activation Fee,193,Second Box Disclosure
+16471074,489,Second Box Disclosure.ROC - With Activation Fee,ROC - With Activation Fee,193,Second Box Disclosure
+16471074,490,Second Box Disclosure.ROC - Prepaid Bundle,ROC - Prepaid Bundle,193,Second Box Disclosure
+16471074,494,Effective Streaming Pitch.Competitior Mentions,Competitior Mentions,172,Effective Streaming Pitch
+16471074,495,Second Box Disclosure.Music Royalty Fee,Music Royalty Fee,193,Second Box Disclosure
+16471074,499,Second Box Disclosure.ROC - 2nd Box Automatic Renewal,ROC - 2nd Box Automatic Renewal,193,Second Box Disclosure
+16471074,500,Second Box Disclosure.QC - Automatic Renewal,QC - Automatic Renewal,193,Second Box Disclosure
+16471074,505,Second Box Disclosure.ROC-QC Act-Prepaid-Commitment - 2,ROC-QC Act-Prepaid-Commitment - 2,193,Second Box Disclosure
+16471074,534,Offers.New Plan Names,New Plan Names,73,Offers
+16471074,540,Call Flow 2021.Call Opening,Call Opening,218,Call Flow 2021
+16471074,541,Call Flow 2021.Verification,Verification,218,Call Flow 2021
+16471074,542,Call Flow 2021.Beginning of Disclosure,Beginning of Disclosure,218,Call Flow 2021
+16471074,543,Call Flow 2021.End of Disclosure,End of Disclosure,218,Call Flow 2021
+16471074,544,Call Flow 2021.Call Closing,Call Closing,218,Call Flow 2021
+16471074,546,Call Flow 2021.Call Flow - Offers,Call Flow - Offers,218,Call Flow 2021
+16471074,553,Customer Experience.Price Increase Oct,Price Increase Oct,74,Customer Experience
+16471074,565,Account Verification.Verification Segment,Verification Segment,71,Account Verification
+16471074,570,Call Flow 2021.Call Flow - All Categories,Call Flow - All Categories,218,Call Flow 2021
+16471074,573,Customer Experience.Customer Mentions of Receiving Comms,Customer Mentions of Receiving Comms,74,Customer Experience
+16471074,587,Emotion Index.Emotion Index Dishonesty,Emotion Index Dishonesty,269,Emotion Index
+16471074,589,Emotion Index.Emotion Index Happiness or Excitement,Emotion Index Happiness or Excitement,269,Emotion Index
+16471074,592,Emotion Index.Emotion Index Satisfaction,Emotion Index Satisfaction,269,Emotion Index
+16471074,600,Contact Reasons.Cancel Something,Cancel Something,274,Contact Reasons
+16471075,105,Outliers.Excessive Silence Block,Excessive Silence Block,54,Outliers
+16471075,106,Outliers.Excessive Silence,Excessive Silence,54,Outliers
+16471075,107,Outliers.Longest Contacts,Longest Contacts,54,Outliers
+16471075,110,Customer Experience.Empathy,Empathy,74,Customer Experience
+16471075,112,Customer Experience.Payment Language,Payment Language,74,Customer Experience
+16471075,113,Behaviors.Hold Language,Hold Language,56,Behaviors
+16471075,118,Customer Experience.Ownership,Ownership,74,Customer Experience
+16471075,119,Customer Experience.Politeness,Politeness,74,Customer Experience
+16471075,124,Sales.Upsell/Cross-Sell,Upsell/Cross-Sell,55,Sales
+16471075,142,Disclosure Details.Includes Fees and Taxes Needs Review,Includes Fees and Taxes Needs Review,70,Disclosure Details
+16471075,148,Disclosure Details.Confirmation of Transaction,Confirmation of Transaction,70,Disclosure Details
+16471075,158,Disclosure Details.Radio ID Final,Radio ID Final,70,Disclosure Details
+16471075,160,Disclosure Details.Cancel - Future Date - Final,Cancel - Future Date - Final,70,Disclosure Details
+16471075,161,Disclosure Details.Cancel - Current Date Final,Cancel - Current Date Final,70,Disclosure Details
+16471075,164,Disclosure Details.Cancel/Suspend Date & Radio ID,Cancel/Suspend Date & Radio ID,70,Disclosure Details
+16471075,167,Account Verification.Account,Account,71,Account Verification
+16471075,169,Account Verification.Phone,Phone,71,Account Verification
+16471075,170,Account Verification.Name,Name,71,Account Verification
+16471075,205,Customer Experience.Call Opening,Call Opening,74,Customer Experience
+16471075,211,Customer Experience.Empathy But Not For Price Increase,Empathy But Not For Price Increase,74,Customer Experience
+16471075,221,Customer Experience.Before Hold Language,Before Hold Language,74,Customer Experience
+16471075,225,Customer Experience.Confidence Language,Confidence Language,74,Customer Experience
+16471075,228,Outcomes.Untuned Assumptive Card Language,Untuned Assumptive Card Language,57,Outcomes
+16471075,232,Call Universe.Calls Requiring Cancellation Disclosure,Calls Requiring Cancellation Disclosure,82,Call Universe
+16471075,240,Score Card Indicators.Cancel/Suspend Date & Radio ID,Cancel/Suspend Date & Radio ID,78,Score Card Indicators
+16471075,242,Score Card Indicators.Cancel/Suspend Current Date Final,Cancel/Suspend Current Date Final,78,Score Card Indicators
+16471075,243,Metadata Filters.Cancel Today/Future Date Filter,Cancel Today/Future Date Filter,87,Metadata Filters
+16471075,244,Disclosure Details.Cancellation Confirmation - Final,Cancellation Confirmation - Final,70,Disclosure Details
+16471075,355,Test - Category Reason.Cancel Universe,Cancel Universe,134,Test - Category Reason
+16471075,371,Test - Category Reason.Call Driver Universe,Call Driver Universe,134,Test - Category Reason
+16471075,375,Call Universe.New-Calls Requiring Cancellation Disclosure,New-Calls Requiring Cancellation Disclosure,82,Call Universe
+16471075,386,Test - Category Reason.Polaris - Customer Response,Polaris - Customer Response,134,Test - Category Reason
+16471075,407,Voice of Customer.Churn- Cancellation Request,Churn- Cancellation Request,174,Voice of Customer
+16471075,408,Voice of Customer.Churn- Cancellation Threat,Churn- Cancellation Threat,174,Voice of Customer
+16471075,451,Call Reason.Cancel Call Reason,Cancel Call Reason,185,Call Reason
+16471075,540,Call Flow 2021.Call Opening,Call Opening,218,Call Flow 2021
+16471075,541,Call Flow 2021.Verification,Verification,218,Call Flow 2021
+16471075,544,Call Flow 2021.Call Closing,Call Closing,218,Call Flow 2021
+16471075,545,Call Flow 2021.Call Drivers,Call Drivers,218,Call Flow 2021
+16471075,547,Call Flow 2021.1A Call Opening to Call Drivers,1A Call Opening to Call Drivers,218,Call Flow 2021
+16471075,548,Call Flow 2021.1B Call Drivers to Verification,1B Call Drivers to Verification,218,Call Flow 2021
+16471075,549,Call Flow 2021.1C Verification to Offers,1C Verification to Offers,218,Call Flow 2021
+16471075,552,Call Flow 2021.1F End of Disclosure to Call Closing,1F End of Disclosure to Call Closing,218,Call Flow 2021
+16471075,565,Account Verification.Verification Segment,Verification Segment,71,Account Verification
+16471075,570,Call Flow 2021.Call Flow - All Categories,Call Flow - All Categories,218,Call Flow 2021
+16471075,589,Emotion Index.Emotion Index Happiness or Excitement,Emotion Index Happiness or Excitement,269,Emotion Index
+16471075,590,Emotion Index.Emotion Index Negative Experience,Emotion Index Negative Experience,269,Emotion Index
+16471075,600,Contact Reasons.Cancel Something,Cancel Something,274,Contact Reasons
+16471075,637,Disclosure Details.Cancel Confirmation & Confirmation of Transaction,Cancel Confirmation & Confirmation of Transaction,70,Disclosure Details
+16471076,105,Outliers.Excessive Silence Block,Excessive Silence Block,54,Outliers
+16471076,106,Outliers.Excessive Silence,Excessive Silence,54,Outliers
+16471076,107,Outliers.Longest Contacts,Longest Contacts,54,Outliers
+16471076,110,Customer Experience.Empathy,Empathy,74,Customer Experience
+16471076,113,Behaviors.Hold Language,Hold Language,56,Behaviors
+16471076,118,Customer Experience.Ownership,Ownership,74,Customer Experience
+16471076,119,Customer Experience.Politeness,Politeness,74,Customer Experience
+16471076,122,Sales.Objections,Objections,55,Sales
+16471076,126,Customer Experience.Contextual Understandability,Contextual Understandability,74,Customer Experience
+16471076,139,Disclosure Details.Go Over Details,Go Over Details,70,Disclosure Details
+16471076,140,Disclosure Details.Plan Type- Final,Plan Type- Final,70,Disclosure Details
+16471076,141,Disclosure Details.Initial Billing Period - Final,Initial Billing Period - Final,70,Disclosure Details
+16471076,142,Disclosure Details.Includes Fees and Taxes Needs Review,Includes Fees and Taxes Needs Review,70,Disclosure Details
+16471076,143,Disclosure Details.Automatic Renewal,Automatic Renewal,70,Disclosure Details
+16471076,144,Disclosure Details.Cancel Any time,Cancel Any time,70,Disclosure Details
+16471076,145,Disclosure Details.Accept Terms,Accept Terms,70,Disclosure Details
+16471076,147,Disclosure Details.Customer Agreement,Customer Agreement,70,Disclosure Details
+16471076,149,Disclosure Details.Change Service,Change Service,70,Disclosure Details
+16471076,153,Disclosure Details.Estimated Charges,Estimated Charges,70,Disclosure Details
+16471076,156,Disclosure Details.Current Rate,Current Rate,70,Disclosure Details
